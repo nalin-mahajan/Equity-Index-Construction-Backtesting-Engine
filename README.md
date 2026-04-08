@@ -219,11 +219,16 @@ A comprehensive report is generated with:
 - Cumulative performance vs benchmark  
 - Drawdown curve  
 - Rolling Sharpe ratio  
-- Annual returns comparison  
+- Annual returns comparison
+
+<img width="1743" height="1046" alt="{907B533C-5291-417E-A5BE-3B5C96BCA95B}" src="https://github.com/user-attachments/assets/cf32a42b-1f99-42f7-9f90-d1075ab59e30" />
+
 
 ### 10.2 Summary Table
 
 Displays all computed metrics in a structured format.
+
+<img width="436" height="575" alt="{003B17F5-CE70-45B8-8CA5-B0CF3F58DF77}" src="https://github.com/user-attachments/assets/d49cedce-82e7-4f27-b31c-9db1c3dffe44" />
 
 ---
 
